@@ -1,0 +1,13 @@
+{
+    "name": "VDN Organization SB Workflow",
+    "description": "VDN Organization SB CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "kotlin"
+    ],
+    "filePatterns": [
+        "pom.xml$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
